@@ -1,0 +1,14 @@
+[project]
+name = "section-6"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain>=0.3.25",
+    "langchain-community>=0.3.25",
+    "langchain-groq>=0.3.2",
+    "numpy>=2.2.6",
+    "pandas>=2.3.0",
+    "sentence-transformers>=4.1.0",
+]
