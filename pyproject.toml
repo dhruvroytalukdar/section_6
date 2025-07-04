@@ -16,4 +16,5 @@ dependencies = [
     "numpy>=2.2.6",
     "pandas>=2.3.0",
     "sentence-transformers>=4.1.0",
+    "streamlit>=1.46.1",
 ]
